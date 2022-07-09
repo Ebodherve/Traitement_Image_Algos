@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\pc-hp\desktop\code_b\exercices et problemes d'algorithmique\structures_sequentielles_simples\exercices\test_import\main.c
+	<stdio.h>
+	<stdlib.h>
+

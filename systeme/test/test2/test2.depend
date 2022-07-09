@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586206025 source:c:\users\pc-hp\desktop\code_b\systeme\test\test2\main.c
+	<unistd.h>
+	<fcntl.h>
+	<stdio.h>
+

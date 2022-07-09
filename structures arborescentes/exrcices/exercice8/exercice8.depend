@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585241080 source:c:\users\pc-hp\desktop\code_b\exercices et problemes d'algorithmique\structures arborescentes\exrcices\exercice8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../import/arbre.h"
+
+1585241925 c:\users\pc-hp\desktop\code_b\exercices et problemes d'algorithmique\structures arborescentes\exrcices\import\arbre.h
+	<stdio.h>
+	<stdlib.h>
+

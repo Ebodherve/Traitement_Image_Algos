@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584978546 source:c:\users\pc-hp\desktop\code_b\ess1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windef.h>
+

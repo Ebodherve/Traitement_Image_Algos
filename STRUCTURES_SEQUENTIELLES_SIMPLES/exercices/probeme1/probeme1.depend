@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1589401386 source:c:\users\pc-hp\desktop\code_b\exercices et problemes d'algorithmique\structures_sequentielles_simples\exercices\probeme1\main.c
+	"evaluation.h"
+
+1589401446 c:\users\pc-hp\desktop\code_b\exercices et problemes d'algorithmique\structures_sequentielles_simples\exercices\probeme1\evaluation.h
+	"construction.h"
+
+1589398628 c:\users\pc-hp\desktop\code_b\exercices et problemes d'algorithmique\structures_sequentielles_simples\exercices\probeme1\construction.h
+	"aide.h"
+
+1589463388 c:\users\pc-hp\desktop\code_b\exercices et problemes d'algorithmique\structures_sequentielles_simples\exercices\probeme1\aide.h
+	<stdio.h>
+	<stdlib.h>
+
